@@ -1,6 +1,6 @@
-# WhatsApp ChatGPT React
+# ReactGPT Messenger ( Using Whatsapp Desktop UI )
 
-WhatsApp ChatGPT React is a chat application built using React, Node.js, and MongoDB. It allows users to chat in real-time and authenticate via Google OAuth.
+WhatsApp ChatGPT React is a chat application built using React, Node.js, and MongoDB. It allows users to chat in real-time and authenticate via Google OAuth. It Combines “React” (the framework) with “Chat Hub.”
 
 ## Installation
 
@@ -50,6 +50,6 @@ WhatsApp ChatGPT React is a chat application built using React, Node.js, and Mon
    - In the `message-controller.js` file, update the user ID when changing the email.
 
 ## Usage
-cd into client folder and start client using npm start 
-cd into Server and start Server using nodemon start
-cd in Socket and Start Socket using nodemon start
+cd into client folder and start client using npm start \n
+cd into Server and start Server using nodemon start \n
+cd in Socket and Start Socket using nodemon start \n
